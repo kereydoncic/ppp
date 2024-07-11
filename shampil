@@ -1,635 +1,272 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="aande.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ae-logo-black-and-white.png" tvg-name="A&E" group-title="USA CABLE  TV #1📺",-1    , A&E
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10357
-#EXTINF:-1 tvg-id="abceastern.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Abc_2013_logo_dark_grey.png" tvg-name="ABC EAST" group-title="USA CABLE  TV #1📺",-1    , ABC EAST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10358
-#EXTINF:-1 tvg-id="amc.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AMC_28201929.png" tvg-name="AMC HD" group-title="USA CABLE  TV #1📺",-1    , AMC HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10361
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Animal_Planet_2018.png" tvg-name="ANIMAL PLANET" group-title="USA CABLE  TV #1📺",-1    , ANIMAL PLANET
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10362
-#EXTINF:-1 tvg-id="bet.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_28201029.png" tvg-name="BET HD" group-title="USA CABLE  TV #1📺",-1    , BET HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10365
-#EXTINF:-1 tvg-id="bether.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Her.png" tvg-name="BET HER" group-title="USA CABLE  TV #1📺",-1    , BET HER
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10366
-#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/American_Heroes_Channel.png" tvg-name="AHC American Hero" group-title="USA CABLE  TV #1📺",-1    , AHC American Hero
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10370
-#EXTINF:-1 tvg-id="axstv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AXS_TV_2012.png" tvg-name="AXS TV" group-title="USA CABLE  TV #1📺",-1    , AXS TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10371
-#EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BBC_America_2008.png" tvg-name="BBC America" group-title="USA CABLE  TV #1📺",-1    , BBC America
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10372
-#EXTINF:-1 tvg-id="bravo.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Bravo_2017.png" tvg-name="BRAVO HD" group-title="USA CABLE  TV #1📺",-1    , BRAVO HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10373
-#EXTINF:-1 tvg-id="cnn.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CNN_28201429.png" tvg-name="CNN" group-title="USA CABLE  TV #1📺",-1    , CNN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10378
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Comedy_Central_2018.png" tvg-name="COMEDY CENTRAL" group-title="USA CABLE  TV #1📺",-1    , COMEDY CENTRAL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10379
-#EXTINF:-1 tvg-id="comet.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/COMET_2020.png" tvg-name="COMET" group-title="USA CABLE  TV #1📺",-1    , COMET
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10380
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cooking_Channel.png" tvg-name="Cooking Channel" group-title="USA CABLE  TV #1📺",-1    , Cooking Channel
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10381
-#EXTINF:-1 tvg-id="justicecentral.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Justice_Network_Logo_2019.png" tvg-name="JUSTICE CENTRAL" group-title="USA CABLE  TV #1📺",-1    , JUSTICE CENTRAL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10382
-#EXTINF:-1 tvg-id="cozitvny.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/cozi5.png" tvg-name="COZI TV" group-title="USA CABLE  TV #1📺",-1    , COZI TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10383
-#EXTINF:-1 tvg-id="crimeinvestigation.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/crime-invest.png" tvg-name="CRIME + INVESTIGATION" group-title="USA CABLE  TV #1📺",-1    , CRIME + INVESTIGATION
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10385
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Destination_America_2015.png" tvg-name="DESTINATION AMERICA" group-title="USA CABLE  TV #1📺",-1    , DESTINATION AMERICA
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10386
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discoveryfamily.png" tvg-name="DISCOVERY FAMILY" group-title="USA CABLE  TV #1📺",-1    , DISCOVERY FAMILY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10387
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" tvg-name="DISCOVERY" group-title="USA CABLE  TV #1📺",-1    , DISCOVERY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10388
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/science.png" tvg-name="DISCOVERY SCIENCE" group-title="USA CABLE  TV #1📺",-1    , DISCOVERY SCIENCE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10389
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/E21_1990.png" tvg-name="E! ENTERTAINMENT" group-title="USA CABLE  TV #1📺",-1    , E! ENTERTAINMENT
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10391
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FoodNetLogo.png" tvg-name="FOOD NETWORK" group-title="USA CABLE  TV #1📺",-1    , FOOD NETWORK
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10393
-#EXTINF:-1 tvg-id="fox56wdky.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fox.png" tvg-name="FOX EAST" group-title="USA CABLE  TV #1📺",-1    , FOX EAST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10395
-#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Fox_News_Channel.png" tvg-name="FOX NEWS" group-title="USA CABLE  TV #1📺",-1    , FOX NEWS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10397
-#EXTINF:-1 tvg-id="fusetv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Fuse_Orange_logo.png" tvg-name="FUSE" group-title="USA CABLE  TV #1📺",-1    , FUSE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10399
-#EXTINF:-1 tvg-id="fxm.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/fxm1111.png" tvg-name="FXM" group-title="USA CABLE  TV #1📺",-1    , FXM
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10401
-#EXTINF:-1 tvg-id="fxx.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FXX.png" tvg-name="FXX  " group-title="USA CABLE  TV #1📺",-1    , FXX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10402
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/gameshow.png" tvg-name="GAMESHOW" group-title="USA CABLE  TV #1📺",-1    , GAMESHOW
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10404
-#EXTINF:-1 tvg-id="gettv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/GetTV_2016_logo.png" tvg-name="GET TV" group-title="USA CABLE  TV #1📺",-1    , GET TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10405
-#EXTINF:-1 tvg-id="grit.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Grit_TV_Network_Logo.png" tvg-name="GRIT" group-title="USA CABLE  TV #1📺",-1    , GRIT
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10406
-#EXTINF:-1 tvg-id="hallmark.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Channel.png" tvg-name="HALLMARK CHANNEL" group-title="USA CABLE  TV #1📺",-1    , HALLMARK CHANNEL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10407
-#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/halldrama.png" tvg-name="HALLMARK DRAMA" group-title="USA CABLE  TV #1📺",-1    , HALLMARK DRAMA
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10408
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Hallmark_Movies_26_Mysteries_28Gold29.png" tvg-name="HALLMARK MOVIES & MYSTERIES" group-title="USA CABLE  TV #1📺",-1    , HALLMARK MOVIES & MYSTERIES
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10409
-#EXTINF:-1 tvg-id="hgtv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Home_26_Garden_Television.png" tvg-name="HGTV" group-title="USA CABLE  TV #1📺",-1    , HGTV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10411
-#EXTINF:-1 tvg-id="historychannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" tvg-name="HISTORY" group-title="USA CABLE  TV #1📺",-1    , HISTORY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10412
-#EXTINF:-1 tvg-id="historychannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/H2.png" tvg-name="HISTORY 2" group-title="USA CABLE  TV #1📺",-1    , HISTORY 2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10413
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ID-2020.png" tvg-name="I.D DISCOVERY HD" group-title="USA CABLE  TV #1📺",-1    , I.D DISCOVERY HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10417
-#EXTINF:-1 tvg-id="insp.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/insp.png" tvg-name="INSP" group-title="USA CABLE  TV #1📺",-1    , INSP
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10418
-#EXTINF:-1 tvg-id="ion.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ion_Television_2021.png" tvg-name="ION TV" group-title="USA CABLE  TV #1📺",-1    , ION TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10419
-#EXTINF:-1 tvg-id="lafftv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/LAFF_28You_Know_You_Want_To29.png" tvg-name="LAFF TV" group-title="USA CABLE  TV #1📺",-1    , LAFF TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10420
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Lifetime_Movie_Network_2019.png" tvg-name="LIFETIME MOVIES" group-title="USA CABLE  TV #1📺",-1    , LIFETIME MOVIES
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10421
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Lifetime_2020.png" tvg-name="LIFETIME NETWORK" group-title="USA CABLE  TV #1📺",-1    , LIFETIME NETWORK
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10422
-#EXTINF:-1 tvg-id="logo.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Logo_TV_2015.png" tvg-name="LOGO" group-title="USA CABLE  TV #1📺",-1    , LOGO
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10423
-#EXTINF:-1 tvg-id="motortrend.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Motor_Trend.png" tvg-name="MOTOR TREND" group-title="USA CABLE  TV #1📺",-1    , MOTOR TREND
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10424
-#EXTINF:-1 tvg-id="mtv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/MTV_28201029.png" tvg-name="MTV" group-title="USA CABLE  TV #1📺",-1    , MTV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10426
-#EXTINF:-1 tvg-id="mtv2.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/MTV2_2013.png" tvg-name="MTV 2" group-title="USA CABLE  TV #1📺",-1    , MTV 2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10427
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/National_Geographic_Wild_2018.png" tvg-name="NAT GEO WILD" group-title="USA CABLE  TV #1📺",-1    , NAT GEO WILD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10428
-#EXTINF:-1 tvg-id="natgeo.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/National_Geographic_2008.png" tvg-name="NATIONAL GEO" group-title="USA CABLE  TV #1📺",-1    , NATIONAL GEO
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10429
-#EXTINF:-1 tvg-id="nbcwnbc.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NBC_2014_Indent_Style.png" tvg-name="NBC EAST" group-title="USA CABLE  TV #1📺",-1    , NBC EAST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10430
-#EXTINF:-1 tvg-id="nbckcra.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/NBC_2014_Indent_Style.png" tvg-name="NBC WEST" group-title="USA CABLE  TV #1📺",-1    , NBC WEST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10431
-#EXTINF:-1 tvg-id="newsmax.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Newsmax_TV_Logo.png" tvg-name="NEWS MAX" group-title="USA CABLE  TV #1📺",-1    , NEWS MAX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10432
-#EXTINF:-1 tvg-id="ovation.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Ovation.png" tvg-name="OVATION " group-title="USA CABLE  TV #1📺",-1    , OVATION
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10436
-#EXTINF:-1 tvg-id="oprahwinfreynetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Oprah_Winfrey_Network_2010b.png" tvg-name="OWN" group-title="USA CABLE  TV #1📺",-1    , OWN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10437
-#EXTINF:-1 tvg-id="oxygen.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Oxygen_2017.png" tvg-name="OXYGEN" group-title="USA CABLE  TV #1📺",-1    , OXYGEN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10438
-#EXTINF:-1 tvg-id="rfdtv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/rfd1.png" tvg-name="RFD TV " group-title="USA CABLE  TV #1📺",-1    , RFD TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10441
-#EXTINF:-1 tvg-id="smithsonian.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Smithsonian.png" tvg-name="SMITHSONIAN CHANNEL" group-title="USA CABLE  TV #1📺",-1    , SMITHSONIAN CHANNEL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10442
-#EXTINF:-1 tvg-id="starttv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/start1.png" tvg-name="START TV" group-title="USA CABLE  TV #1📺",-1    , START TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10443
-#EXTINF:-1 tvg-id="sundancetv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/SundanceTV_2014.png" tvg-name="SUNDANCE CHANNEL" group-title="USA CABLE  TV #1📺",-1    , SUNDANCE CHANNEL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10444
-#EXTINF:-1 tvg-id="tbs.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TBS_2015.png" tvg-name="TBS" group-title="USA CABLE  TV #1📺",-1    , TBS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10446
-#EXTINF:-1 tvg-id="92news.uk" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Turner_Classic_Movies_2009.png" tvg-name="TCM HD" group-title="USA CABLE  TV #1📺",-1    , TCM HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10447
-#EXTINF:-1 tvg-id="tlc.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TLC2021.png" tvg-name="TLC " group-title="USA CABLE  TV #1📺",-1    , TLC
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10450
-#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TNT_2016.png" tvg-name="TNT " group-title="USA CABLE  TV #1📺",-1    , TNT
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10451
-#EXTINF:-1 tvg-id="travel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Travel_Channel_2018.png" tvg-name="TRAVEL CHANNEL" group-title="USA CABLE  TV #1📺",-1    , TRAVEL CHANNEL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10452
-#EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TruTV_2014.png" tvg-name="TRU TV " group-title="USA CABLE  TV #1📺",-1    , TRU TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10453
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TV_Land_2015.png" tvg-name="TV LAND" group-title="USA CABLE  TV #1📺",-1    , TV LAND
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10454
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/USA_Network2021.png" tvg-name="USA NETWORK" group-title="USA CABLE  TV #1📺",-1    , USA NETWORK
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10456
-#EXTINF:-1 tvg-id="vh1.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/VH1_2013.png" tvg-name="VH1 " group-title="USA CABLE  TV #1📺",-1    , VH1
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10457
-#EXTINF:-1 tvg-id="vice.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Vice_TV.png" tvg-name="VICE" group-title="USA CABLE  TV #1📺",-1    , VICE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10458
-#EXTINF:-1 tvg-id="wnetwork.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/W_Network.png" tvg-name="W Network" group-title="USA CABLE  TV #1📺",-1    , W Network
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10459
-#EXTINF:-1 tvg-id="wetv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/WE_tv.png" tvg-name="WE TV" group-title="USA CABLE  TV #1📺",-1    , WE TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10460
-#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/WGN9_Chicago_2017.png" tvg-name="WGN " group-title="USA CABLE  TV #1📺",-1    , WGN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10461
-#EXTINF:-1 tvg-id="freeform.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Freeform_2018.png" tvg-name="FREEFORM" group-title="USA CABLE  TV #1📺",-1    , FREEFORM
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10398
-#EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/cmttrans.png" tvg-name="CMT HD" group-title="USA CABLE  TV #1📺",-1    , CMT HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10377
-#EXTINF:-1 tvg-id="magnolianetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/DIY_Network.png" tvg-name="DIY" group-title="USA CABLE  TV #1📺",-1    , DIY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10390
-#EXTINF:-1 tvg-id="hln.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HLN_2017.png" tvg-name="HLN HEAD LINE NEWS" group-title="USA CABLE  TV #1📺",-1    , HLN HEAD LINE NEWS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10415
-#EXTINF:-1 tvg-id="buzzertv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Buzzr_TV_Network_Logo.png" tvg-name="BUZZER " group-title="USA CABLE  TV #1📺",-1    , BUZZER
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15367
-#EXTINF:-1 tvg-id="bouncetv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/bounce.png" tvg-name="BOUNCE TV" group-title="USA CABLE  TV #1📺",-1    , BOUNCE TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17504
-#EXTINF:-1 tvg-id="syfy.uk" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Syfy_logo.png" tvg-name="SYFY HD" group-title="USA CABLE  TV #1📺",-1    , SYFY HD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10445
-#EXTINF:-1 tvg-id="homeshoppingnetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/hsn.png" tvg-name="HSN" group-title="USA CABLE  TV #1📺",-1    , HSN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/22374
-#EXTINF:-1 tvg-id="qvc.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/03/qvc.png" tvg-name="QVC" group-title="USA CABLE  TV #1📺",-1    , QVC
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/22375
-#EXTINF:-1 tvg-id="qvc2.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/03/qvc2.png" tvg-name="QVC 2" group-title="USA CABLE  TV #1📺",-1    , QVC 2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/22376
-#EXTINF:-1 tvg-id="tvone.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/tv-one.png" tvg-name="TV ONE" group-title="USA CABLE  TV #1📺",-1    , TV ONE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/22436
-#EXTINF:-1 tvg-id="reelzchannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ReelzChannel.png" tvg-name="REELZ" group-title="USA CABLE  TV #1📺",-1    , REELZ
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/28466
-#EXTINF:-1 tvg-id="dejaview.ca" tvg-logo="https://static.epg.best/ca/DejaView.ca.png" tvg-name="DEJA VIEW" group-title="USA CABLE  TV #1📺",-1    , DEJA VIEW
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/29541
-#EXTINF:-1 tvg-id="blazetv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/blaze.png" tvg-name="BLAZE" group-title="USA CABLE  TV #1📺",-1    , BLAZE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/30413
-#EXTINF:-1 tvg-id="fyi.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FYI2C_logo.png" tvg-name="FYI" group-title="USA CABLE  TV #1📺",-1    , FYI
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10403
-#EXTINF:-1 tvg-id="cbseastern.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CBS.png" tvg-name="CBS EAST" group-title="USA CABLE  TV #1📺",-1    , CBS EAST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10374
-#EXTINF:-1 tvg-id="court.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Court_TV_2019.png" tvg-name="COURT TV" group-title="USA CABLE  TV #1📺",-1    , COURT TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/33892
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/IFC_2018.png" tvg-name="IFC" group-title="USA CABLE  TV #1📺",-1    , IFC
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/35379
-#EXTINF:-1 tvg-id="aspiretv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AspireTV_logo.png" tvg-name="ASPIRE" group-title="USA CABLE  TV #1📺",-1    , ASPIRE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40539
-#EXTINF:-1 tvg-id="antennatv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Antenna_TV_logo.png" tvg-name="ANTENNA TV" group-title="USA CABLE  TV #1📺",-1    , ANTENNA TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10363
-#EXTINF:-1 tvg-id="gacfamily.us" tvg-name="GAC FAMILY" group-title="USA CABLE  TV #1📺",-1   , GAC FAMILY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/50076
-#EXTINF:-1 tvg-id="revolt.us" tvg-name="REVOLT" group-title="USA CABLE  TV #1📺",-1   , REVOLT
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/58587
-#EXTINF:-1 tvg-id="discoveryhistoryplus1.uk" tvg-logo="https://img.apksum.com/49/discoveryguide.topdiscoveryshows.guidefordiscovery.discoveryguide/1.2/icon.png" tvg-name="DISCOVERY HISTORY" group-title="USA CABLE  TV #1📺",-1    , DISCOVERY HISTORY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/45995
-#EXTINF:-1 tvg-id="fx.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FX.png" tvg-name="FX" group-title="USA CABLE  TV #1📺",-1    , FX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/63320
-#EXTINF:-1 tvg-id="fetv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/FETV2021.png" tvg-name="FETV " group-title="USA CABLE  TV #1📺",-1    , FETV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10392
-#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Heroes_26_Icons.png" tvg-name="H&I HEROS & ICONS" group-title="USA CABLE  TV #1📺",-1    , H&I HEROS & ICONS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10410
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/One_America_News_Network.png" tvg-name="ONE AMERICAN NEWS" group-title="USA CABLE  TV #1📺",-1    , ONE AMERICAN NEWS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10435
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Paramount_Network.png" tvg-name="PARAMOUNT NETWORK" group-title="USA CABLE  TV #1📺",-1    , PARAMOUNT NETWORK
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10439
-#EXTINF:-1 tvg-id="weatherchannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TWC_1982.png" tvg-name="THE WEATHER CHANNEL" group-title="USA CABLE  TV #1📺",-1    , THE WEATHER CHANNEL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10449
-#EXTINF:-1 tvg-id="uptv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/uptv-2021.png" tvg-name="UP TV" group-title="USA CABLE  TV #1📺",-1    , UP TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10455
-#EXTINF:-1 tvg-id="amcplus.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/amclogo@2x.png" tvg-name="AMC Plus" group-title="USA CABLE  TV #1📺",-1    , AMC Plus
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13985
-#EXTINF:-1 tvg-id="5e8254118601b80007b4b7ae" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/AMC-Presents.png" tvg-name="AMC STORIES" group-title="USA CABLE  TV #1📺",-1    , AMC STORIES
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13986
-#EXTINF:-1 tvg-id="andtv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2021/04/decades.png" tvg-name="DECADES" group-title="USA CABLE  TV #1📺",-1    , DECADES
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/22435
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Discovery_Life_2016_logo.png" tvg-name="DISCOVERY LIFE" group-title="USA CABLE  TV #1📺",-1    , DISCOVERY LIFE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/28464
-#EXTINF:-1 tvg-id="accuweather.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/AccuW.png" tvg-name="AccuWeather" group-title="USA CABLE  TV #1📺",-1    , AccuWeather
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/30528
-#EXTINF:-1 tvg-id="charge.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/charge.png" tvg-name="CHARGE!" group-title="USA CABLE  TV #1📺",-1    , CHARGE!
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/34911
-#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Cowboy_Channel.png" tvg-name="Cowboy Channel" group-title="USA CABLE  TV #1📺",-1    , Cowboy Channel
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40743
-#EXTINF:-1 tvg-id="circletv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Circle_Network_logo.png" tvg-name="CIRCLE TV" group-title="USA CABLE  TV #1📺",-1    , CIRCLE TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40744
-#EXTINF:-1 tvg-id="betjams.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/BET_Jams.png" tvg-name="BET JAMS" group-title="USA CABLE  TV #1📺",-1    , BET JAMS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40760
-#EXTINF:-1 tvg-id="betsoul.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/betsoul1.png" tvg-name="BET SOUL" group-title="USA CABLE  TV #1📺",-1    , BET SOUL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40761
-#EXTINF:-1 tvg-id="showcase.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Showcase15.png" tvg-name="SHOWCASE " group-title="USA CABLE  TV #1📺",-1    , SHOWCASE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/46107
-#EXTINF:-1 tvg-id="mtvclassic.us" tvg-logo="https://i.imgur.com/ieAldkW.png" tvg-name="MTV Classic" group-title="USA CABLE  TV #1📺",-1    , MTV Classic
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/46110
-#EXTINF:-1 tvg-id="pixltv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pixl.png" tvg-name="PIXL" group-title="USA CABLE  TV #1📺",-1    , PIXL
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/48054
-#EXTINF:-1 tvg-id="metvwjlp.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/metv.png" tvg-name="METV (EAST)" group-title="USA CABLE  TV #1📺",-1    , METV (EAST)
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/48442
-#EXTINF:-1 tvg-id="cw57wpsg.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/The_CW.png" tvg-name="CW" group-title="USA CABLE  TV #1📺",-1    , CW
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/48476
-#EXTINF:-1 tvg-id="poptv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Pop_channel_blue.png" tvg-name="POP TV" group-title="USA CABLE  TV #1📺",-1    , POP TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/51112
-#EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/CTV_SciFi_Channel_Primary_Logo_Print_Reverse.png" tvg-name="SCIENCE FICTION TV" group-title="USA CABLE  TV #1📺",-1    , SCIENCE FICTION TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/16268
-#EXTINF:-1 tvg-id="metv.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/metv.png" tvg-name="METV (WEST)" group-title="USA CABLE  TV #1📺",-1    , METV (WEST)
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/45993
-#EXTINF:-1 tvg-id="awe.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/awe.png" tvg-name="AWE" group-title="USA CABLE  TV #1📺",-1    , AWE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10364
-#EXTINF:-1 tvg-id="mtvu.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/MTVU.png" tvg-name="MTV U " group-title="USA CABLE  TV #1📺",-1    , MTV U
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/31498
-#EXTINF:-1 tvg-name="QVC UK SD" group-title="USA CABLE  TV #1📺",-1  , QVC UK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/56146
-#EXTINF:-1 tvg-name="QVC Beauty" group-title="USA CABLE  TV #1📺",-1  , QVC Beauty
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/56147
-#EXTINF:-1 tvg-name="QVC Extra" group-title="USA CABLE  TV #1📺",-1  , QVC Extra
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/56148
-#EXTINF:-1 tvg-name="QVC Style" group-title="USA CABLE  TV #1📺",-1  , QVC Style
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/56149
-#EXTINF:-1 tvg-id="discoverychannel.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/45e838eba9fd9f28718e732b683d3f6f.png" tvg-name="DISCOVERY (West)" group-title="USA CABLE  TV #1📺",-1    , DISCOVERY (West)
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/83424
-#EXTINF:-1 tvg-id="abc3keyt.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Abc_2013_logo_dark_grey.png" tvg-name="ABC WEST" group-title="USA CABLE  TV #1📺",-1    , ABC WEST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/10359
-#EXTINF:-1 tvg-id="militaryhistory.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Military_History_2015.png" tvg-name="HISTORY MILITARY" group-title="USA CABLE  TV #1📺",-1    , HISTORY MILITARY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38851
-#EXTINF:-1 tvg-id="discoveryvelocity.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Discovery_Velocity.png" tvg-name="Discovery Velocity" group-title="USA CABLE  TV #1📺",-1    , Discovery Velocity
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40563
-#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/discov.png" tvg-name="Discovery CA" group-title="USA CABLE  TV #1📺",-1    , Discovery CA
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/94761
-#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="USA NETWORK WEST" group-title="USA CABLE  TV #1📺",-1   , USA NETWORK WEST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/96979
-#EXTINF:-1 tvg-id="lifetimerealwomen.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/LRM.png" tvg-name="Lifetime Real Women" group-title="USA CABLE  TV #1📺",-1    , Lifetime Real Women
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/28209
-#EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/09/Crackle_123.png" tvg-name="CRACKLE TV" group-title="USA CABLE  TV #1📺",-1   , CRACKLE TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/43948
-#EXTINF:-1 tvg-name="NBC DateLine" group-title="USA CABLE  TV #1📺",-1  , NBC DateLine
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/100675
-#EXTINF:-1 tvg-name="Haunt TV" group-title="USA CABLE  TV #1📺",-1  , Haunt TV
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/100676
-#EXTINF:-1 tvg-name="The Unexplained" group-title="USA CABLE  TV #1📺",-1  , The Unexplained
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/100677
-#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO.png" tvg-name="HBO" group-title="MOVIE CHANNELS📺",-1    , HBO
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13434
-#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO2_logo.png" tvg-name="HBO 2" group-title="MOVIE CHANNELS📺",-1    , HBO 2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13435
-#EXTINF:-1 tvg-id="hbofamily.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/c63f52bb327351cfe58cfc09a94a9004.png" tvg-name="HBO FAMILY" group-title="MOVIE CHANNELS📺",-1    , HBO FAMILY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13439
-#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/bf5b9897810f73b04d72c555e671829d.png" tvg-name="HD MOVIE NET" group-title="MOVIE CHANNELS📺",-1    , HD MOVIE NET
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13450
-#EXTINF:-1 tvg-id="cinemax.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="CINEMAX" group-title="MOVIE CHANNELS📺",-1    , CINEMAX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13987
-#EXTINF:-1 tvg-id="moremax.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/More_MAX_2016.png" tvg-name="CINEMAX MOREMAX" group-title="MOVIE CHANNELS📺",-1    , CINEMAX MOREMAX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13988
-#EXTINF:-1 tvg-id="thrillermax.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ThrillerMax_2011.png" tvg-name="CINEMAX THRILLER" group-title="MOVIE CHANNELS📺",-1    , CINEMAX THRILLER
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13989
-#EXTINF:-1 tvg-id="5starmax.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/5max.png" tvg-name="CINEMAX 5-STAR" group-title="MOVIE CHANNELS📺",-1    , CINEMAX 5-STAR
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13990
-#EXTINF:-1 tvg-id="moviemax.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59963_h15_ab.png" tvg-name="Cinemax Moviemax" group-title="MOVIE CHANNELS📺",-1    , Cinemax Moviemax
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13991
-#EXTINF:-1 tvg-id="actionmax.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/9f9c63332b19dfa33deeaf6d4a7464c2.png" tvg-name="CInemax Actionmax" group-title="MOVIE CHANNELS📺",-1    , CInemax Actionmax
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13992
-#EXTINF:-1 tvg-id="epix2.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/5aabbcebd62c39ff556e4b0711a7cdb0.png" tvg-name="MGM HITS" group-title="MOVIE CHANNELS📺",-1    , MGM HITS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14165
-#EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/ec1dbf8ba80280bdbc143a019dd198d3.png" tvg-name="HBO COMEDY" group-title="MOVIE CHANNELS📺",-1    , HBO COMEDY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13438
-#EXTINF:-1 tvg-id="showtime.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/02a55f6b0b75a11ad1dedf9f8b4d9b4f.png" tvg-name="SHOWTIME" group-title="MOVIE CHANNELS📺",-1    , SHOWTIME
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14168
-#EXTINF:-1 tvg-id="showtime2.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/de534e374fafe9c5555aa9f3ccc6b7e4.PNG" tvg-name="SHOWTIME 2" group-title="MOVIE CHANNELS📺",-1    , SHOWTIME 2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14169
-#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Family_Zone.png" tvg-name="SHOWTIME FAMILY ZONE" group-title="MOVIE CHANNELS📺",-1    , SHOWTIME FAMILY ZONE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14171
-#EXTINF:-1 tvg-id="shoxbet.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/01/shobet.png" tvg-name="SHOW X BET" group-title="MOVIE CHANNELS📺",-1    , SHOW X BET
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14173
-#EXTINF:-1 tvg-id="showtimewest.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/showtime-west-logo.png" tvg-name="SHOWTIME WEST " group-title="MOVIE CHANNELS📺",-1    , SHOWTIME WEST
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14174
-#EXTINF:-1 tvg-id="epixhits.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/8deb1ce16fa29236dd2651e275a22202.png" tvg-name="MGM+ MARQUEE" group-title="MOVIE CHANNELS📺",-1    , MGM+ MARQUEE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14167
-#EXTINF:-1 tvg-id="epix.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/a325c8f97037e645ade6159bcd253213.png" tvg-name="MGM+" group-title="MOVIE CHANNELS📺",-1    , MGM+
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14164
-#EXTINF:-1 tvg-id="starz.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/1748d8b34eb1824b6a0e7eb7c32fbed9.png" tvg-name="STARZ" group-title="MOVIE CHANNELS📺",-1    , STARZ
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14915
-#EXTINF:-1 tvg-id="starzinblack.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/starzblack.png" tvg-name="STARZ in BLACK" group-title="MOVIE CHANNELS📺",-1    , STARZ in BLACK
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14916
-#EXTINF:-1 tvg-id="starzcomedy.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Comedy_2005.png" tvg-name="STARZ COMEDY" group-title="MOVIE CHANNELS📺",-1    , STARZ COMEDY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14917
-#EXTINF:-1 tvg-id="starzcinema.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/Starzcin.png" tvg-name="STARZ CINEMA" group-title="MOVIE CHANNELS📺",-1    , STARZ CINEMA
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14918
-#EXTINF:-1 tvg-id="starzkidsfamily.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Kids_26_Family_2005.png" tvg-name="STARZ KIDS & FAMILY" group-title="MOVIE CHANNELS📺",-1    , STARZ KIDS & FAMILY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14919
-#EXTINF:-1 tvg-id="starzedge.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Edge_2016.png" tvg-name="STARZ EDGE" group-title="MOVIE CHANNELS📺",-1    , STARZ EDGE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14920
-#EXTINF:-1 tvg-id="starzencore.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_Encore.png" tvg-name="STARZ ENCORE" group-title="MOVIE CHANNELS📺",-1    , STARZ ENCORE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14921
-#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Encore_Westerns_2013_Stacked.png" tvg-name="STARZ ENCORE WESTERNS" group-title="MOVIE CHANNELS📺",-1    , STARZ ENCORE WESTERNS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14922
-#EXTINF:-1 tvg-id="starzencoreaction.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Action_2013.png" tvg-name="STARZ ENCORE ACTION" group-title="MOVIE CHANNELS📺",-1    , STARZ ENCORE ACTION
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14923
-#EXTINF:-1 tvg-id="starzencoresuspense.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Suspense_2013.png" tvg-name="STARZ ENCORE SUSPENCE" group-title="MOVIE CHANNELS📺",-1    , STARZ ENCORE SUSPENCE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14924
-#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/601f0f0bd37ce3760bc59784cb1f7cc7.png" tvg-name="SHOWTIME EXTREME" group-title="MOVIE CHANNELS📺",-1    , SHOWTIME EXTREME
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14170
-#EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/HBO_Signature_2000.png" tvg-name="HBO SIGNATURE" group-title="MOVIE CHANNELS📺",-1    , HBO SIGNATURE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13436
-#EXTINF:-1 tvg-id="hbozone.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/c60515f34081dc2134721aa3347d359f.png" tvg-name="HBO ZONE" group-title="MOVIE CHANNELS📺",-1    , HBO ZONE
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13437
-#EXTINF:-1 tvg-id="hbo.ca" tvg-logo="http://onlytimewilltell.xyz:2086/images/b2dfb8f2ab66df1c04c64a35033b0231.png" tvg-name="HBO CA 1" group-title="MOVIE CHANNELS📺",-1    , HBO CA 1
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13440
-#EXTINF:-1 tvg-id="hbo2.ca" tvg-logo="http://onlytimewilltell.xyz:2086/images/9cfbb43c55168f41cdcdb3f7317aefc4.png" tvg-name="HBO CA 2" group-title="MOVIE CHANNELS📺",-1    , HBO CA 2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13441
-#EXTINF:-1 tvg-id="tmc.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/the-movie-channel-logo-png-transparent.png" tvg-name="The Movie Channel" group-title="MOVIE CHANNELS📺",-1    , The Movie Channel
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13449
-#EXTINF:-1 tvg-id="movieplex.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Movieplex-logo.png" tvg-name="MoviePlex" group-title="MOVIE CHANNELS📺",-1    , MoviePlex
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13984
-#EXTINF:-1 tvg-id="outermax.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/OuterMax_2011.png" tvg-name="Cinemax Outermax" group-title="MOVIE CHANNELS📺",-1    , Cinemax Outermax
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/13993
-#EXTINF:-1 tvg-id="epixdrivein.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/8ea0327e1f692a38875b4a46ba526503.png" tvg-name="MGM+ DRIVE-IN" group-title="MOVIE CHANNELS📺",-1    , MGM+ DRIVE-IN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14166
-#EXTINF:-1 tvg-id="showtimewomen.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Showtime_Women.png" tvg-name="SHOWTIME WOMEN" group-title="MOVIE CHANNELS📺",-1    , SHOWTIME WOMEN
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14172
-#EXTINF:-1 tvg-id="skycomedy.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY COMEDY" group-title="MOVIE CHANNELS📺",-1    , SKY COMEDY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14926
-#EXTINF:-1 tvg-id="skyaction.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY ACTION" group-title="MOVIE CHANNELS📺",-1    , SKY ACTION
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14927
-#EXTINF:-1 tvg-id="skydrama.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY DRAMA" group-title="MOVIE CHANNELS📺",-1    , SKY DRAMA
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14928
-#EXTINF:-1 tvg-id="skyfamily.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY FAMILY" group-title="MOVIE CHANNELS📺",-1    , SKY FAMILY
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14929
-#EXTINF:-1 tvg-id="skygreats.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY GREATS" group-title="MOVIE CHANNELS📺",-1    , SKY GREATS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14930
-#EXTINF:-1 tvg-id="skyhits.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY HITS" group-title="MOVIE CHANNELS📺",-1    , SKY HITS
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14931
-#EXTINF:-1 tvg-id="skyscifihorror.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Sky_Cinema_2020.png" tvg-name="SKY HORROR" group-title="MOVIE CHANNELS📺",-1    , SKY HORROR
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14932
-#EXTINF:-1 tvg-id="showtimenext.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Showtime_Next.png" tvg-name="SHOWTIME NEXT" group-title="MOVIE CHANNELS📺",-1    , SHOWTIME NEXT
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38620
-#EXTINF:-1 tvg-id="retroplex.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/801fab8847d24da6e43dd1c094adbc9d.png" tvg-name="RETRO PLEX" group-title="MOVIE CHANNELS📺",-1    , RETRO PLEX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40759
-#EXTINF:-1 tvg-id="starzwest.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_2016.png" tvg-name="Starz West" group-title="MOVIE CHANNELS📺",-1    , Starz West
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/43857
-#EXTINF:-1 tvg-id="movietime.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/10/MovieTime_logo.png" tvg-name="MovieTime" group-title="MOVIE CHANNELS📺",-1    , MovieTime
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/45944
-#EXTINF:-1 tvg-id="starz1.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Starz_2016.png" tvg-name="STARZ 1 " group-title="MOVIE CHANNELS📺",-1    , STARZ 1
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/48246
-#EXTINF:-1 tvg-id="screenpixwesterns.us" tvg-name="ScreenPix Westerns" group-title="MOVIE CHANNELS📺",-1   , ScreenPix Westerns
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/52705
-#EXTINF:-1 tvg-id="screenpix.us" tvg-name="SCREEN PIX" group-title="MOVIE CHANNELS📺",-1   , SCREEN PIX
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/56262
-#EXTINF:-1 tvg-id="sonymax.uk" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Sony_Movies_2019.png" tvg-name="SONY MOVIES" group-title="MOVIE CHANNELS📺",-1    , SONY MOVIES
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14850
-#EXTINF:-1 tvg-id="screenpixaction.us" tvg-name="ScreenPix Action" group-title="MOVIE CHANNELS📺",-1   , ScreenPix Action
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/59833
-#EXTINF:-1 tvg-id="starzencoreclassics.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Encore_Classic_2013-1.png" tvg-name="STARZ ENCORE CLASSIC" group-title="MOVIE CHANNELS📺",-1    , STARZ ENCORE CLASSIC
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/14925
-#EXTINF:-1 tvg-id="tmcxtra.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/02/the-movie-channel-logo-png-transparent.png" tvg-name="The Movie Channel Extra" group-title="MOVIE CHANNELS📺",-1    , The Movie Channel Extra
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15366
-#EXTINF:-1 tvg-id="hbowest.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO West" group-title="MOVIE CHANNELS📺",-1    , HBO West
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/43856
-#EXTINF:-1 tvg-id="betsoul.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Bet_Soul.png" tvg-name="BET Soul #2 " group-title="USA CABLE TV #2📺",-1    , BET Soul #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17522
-#EXTINF:-1 tvg-id="betjams.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/BET_Jams.png" tvg-name="BET Jamz #2 " group-title="USA CABLE TV #2📺",-1    , BET Jamz #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17523
-#EXTINF:-1 tvg-id="andtv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/decades.png" tvg-name="Decades #2 " group-title="USA CABLE TV #2📺",-1    , Decades #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17529
-#EXTINF:-1 tvg-id="aande.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/01/ae-logo-black-and-white.png" tvg-name="A&E #2 " group-title="USA CABLE TV #2📺",-1    , A&E #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17531
-#EXTINF:-1 tvg-id="amc.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/AMC_28201929.png" tvg-name="AMC #2 " group-title="USA CABLE TV #2📺",-1    , AMC #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17532
-#EXTINF:-1 tvg-id="animalplanet.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Animal_Planet_2018.png" tvg-name="Animal Planet #2" group-title="USA CABLE TV #2📺",-1    , Animal Planet #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17533
-#EXTINF:-1 tvg-id="bet.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/BET_28201029.png" tvg-name="BET #2" group-title="USA CABLE TV #2📺",-1    , BET #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17534
-#EXTINF:-1 tvg-id="bravo.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Bravo_2017.png" tvg-name="Bravo  #2" group-title="USA CABLE TV #2📺",-1    , Bravo  #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17535
-#EXTINF:-1 tvg-id="cmt.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/01/cmttrans.png" tvg-name="CMT #2" group-title="USA CABLE TV #2📺",-1    , CMT #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17537
-#EXTINF:-1 tvg-id="comedycentral.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Comedy_Central_2018.png" tvg-name="Comedy Central #2" group-title="USA CABLE TV #2📺",-1    , Comedy Central #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17540
-#EXTINF:-1 tvg-id="discoverychannel.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/discov.png" tvg-name="Discovery #2" group-title="USA CABLE TV #2📺",-1    , Discovery #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17541
-#EXTINF:-1 tvg-id="discoveryfamily.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/discoveryfamily.png" tvg-name="Discovery Family #2" group-title="USA CABLE TV #2📺",-1    , Discovery Family #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17542
-#EXTINF:-1 tvg-id="discoverylife.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Discovery_Life_2016_logo.png" tvg-name="Discovery Life #2" group-title="USA CABLE TV #2📺",-1    , Discovery Life #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17543
-#EXTINF:-1 tvg-id="eentertainment.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/E.png" tvg-name="E!*" group-title="USA CABLE TV #2📺",-1    , E!*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17544
-#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Fox_News.png" tvg-name="Fox News*" group-title="USA CABLE TV #2📺",-1    , Fox News*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17545
-#EXTINF:-1 tvg-id="freeform.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Freeform_2018.png" tvg-name="Freeform*" group-title="USA CABLE TV #2📺",-1    , Freeform*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17546
-#EXTINF:-1 tvg-id="fx.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FX.png" tvg-name="FX #2" group-title="USA CABLE TV #2📺",-1    , FX #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17547
-#EXTINF:-1 tvg-id="fxx.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/FXX.png" tvg-name="FXX*" group-title="USA CABLE TV #2📺",-1    , FXX*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17548
-#EXTINF:-1 tvg-id="hallmark.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Hallmark_Channel.png" tvg-name="Hallmark Channel*" group-title="USA CABLE TV #2📺",-1    , Hallmark Channel*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17549
-#EXTINF:-1 tvg-id="hallmarkdrama.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/halldrama.png" tvg-name="Hallmark Drama*" group-title="USA CABLE TV #2📺",-1    , Hallmark Drama*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17550
-#EXTINF:-1 tvg-id="hallmarkmoviesmysteries.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Hallmark_Movies_26_Mysteries_28Gold29.png" tvg-name="Hallmark Movies & Mysteries*" group-title="USA CABLE TV #2📺",-1    , Hallmark Movies & Mysteries*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17551
-#EXTINF:-1 tvg-id="hgtv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Home_Garden_Television.png" tvg-name="HGTV #2" group-title="USA CABLE TV #2📺",-1    , HGTV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17553
-#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/IFC_2018.png" tvg-name="IFC #2" group-title="USA CABLE TV #2📺",-1    , IFC #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17555
-#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ID-2020.png" tvg-name="ID Discovery #2" group-title="USA CABLE TV #2📺",-1    , ID Discovery #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17556
-#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Lifetime_2020.png" tvg-name="Lifetime #2" group-title="USA CABLE TV #2📺",-1    , Lifetime #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17557
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Lifetime_Movie_Network_2019.png" tvg-name="Lifetime Movies #2" group-title="USA CABLE TV #2📺",-1    , Lifetime Movies #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17558
-#EXTINF:-1 tvg-id="mtvlive.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/MTV_28201029.png" tvg-name="MTV LIVE #2" group-title="USA CABLE TV #2📺",-1    , MTV LIVE #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17559
-#EXTINF:-1 tvg-id="natgeo.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/National_Geographic_2008.png" tvg-name="National Geo #2" group-title="USA CABLE TV #2📺",-1    , National Geo #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17560
-#EXTINF:-1 tvg-id="natgeowild.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/National_Geographic_Wild_2018.png" tvg-name="Nat Geo Wild #2" group-title="USA CABLE TV #2📺",-1    , Nat Geo Wild #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17561
-#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Paramount_Network.png" tvg-name="Paramount #2" group-title="USA CABLE TV #2📺",-1    , Paramount #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17562
-#EXTINF:-1 tvg-id="poptv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Pop_channel_blue.png" tvg-name="POP #2" group-title="USA CABLE TV #2📺",-1    , POP #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17563
-#EXTINF:-1 tvg-id="discoveryscience.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Science_2016.png" tvg-name="Science #2" group-title="USA CABLE TV #2📺",-1    , Science #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17564
-#EXTINF:-1 tvg-id="tbs.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TBS_2015.png" tvg-name="TBS #2" group-title="USA CABLE TV #2📺",-1    , TBS #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17569
-#EXTINF:-1 tvg-id="tnt.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TNT_2016.png" tvg-name="TNT #2" group-title="USA CABLE TV #2📺",-1    , TNT #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17570
-#EXTINF:-1 tvg-id="andtv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Travel_Channel_2018.png" tvg-name="Travel Channel #2" group-title="USA CABLE TV #2📺",-1    , Travel Channel #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17571
-#EXTINF:-1 tvg-id="tvlandeast.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/tvland.png" tvg-name="TV Land #2" group-title="USA CABLE TV #2📺",-1    , TV Land #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17572
-#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/ESPN.png" tvg-name="ESPN*" group-title="USA CABLE TV #2📺",-1    , ESPN*
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17573
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/FS2_logo.png" tvg-name="FOX Sports 2 *" group-title="USA CABLE TV #2📺",-1    , FOX Sports 2 *
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/17575
-#EXTINF:-1 tvg-id="fetv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/FETV2021.png" tvg-name="FETV #2" group-title="USA CABLE TV #2📺",-1    , FETV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/35697
-#EXTINF:-1 tvg-id="antennatv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Antenna_TV_logo.png" tvg-name="Antenna Tv #2" group-title="USA CABLE TV #2📺",-1    , Antenna Tv #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/36955
-#EXTINF:-1 tvg-id="cartoonnetwork.us" tvg-name="CARTOON NETWORK #2" group-title="USA CABLE TV #2📺",-1   , CARTOON NETWORK #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39876
-#EXTINF:-1 tvg-id="destinationamerica.us" tvg-name="DESTINATION AMERICA #2" group-title="USA CABLE TV #2📺",-1   , DESTINATION AMERICA #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39878
-#EXTINF:-1 tvg-id="disneychannel.us" tvg-name="DISNEY CHANNEL #2" group-title="USA CABLE TV #2📺",-1   , DISNEY CHANNEL #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39879
-#EXTINF:-1 tvg-id="disneyjunior.us" tvg-name="DISNEY JR #2" group-title="USA CABLE TV #2📺",-1   , DISNEY JR #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39880
-#EXTINF:-1 tvg-id="disneyxd.us" tvg-name="DISNEY XD #2" group-title="USA CABLE TV #2📺",-1   , DISNEY XD #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39881
-#EXTINF:-1 tvg-id="foodnetwork.us" tvg-name="FOOD NETWORK #2" group-title="USA CABLE TV #2📺",-1   , FOOD NETWORK #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39885
-#EXTINF:-1 tvg-id="foxwnyw.us" tvg-name="FOX EAST #2" group-title="USA CABLE TV #2📺",-1   , FOX EAST #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39886
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1 #2" group-title="USA CABLE TV #2📺",-1   , FOX SPORTS 1 #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39888
-#EXTINF:-1 tvg-id="a3cine.us" tvg-name="FXM #2" group-title="USA CABLE TV #2📺",-1   , FXM #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39889
-#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="GAME SHOW NETWORK #2" group-title="USA CABLE TV #2📺",-1   , GAME SHOW NETWORK #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39891
-#EXTINF:-1 tvg-id="hln.us" tvg-name="HLN #2" group-title="USA CABLE TV #2📺",-1   , HLN #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39892
-#EXTINF:-1 tvg-id="motortrend.us" tvg-name="MOTORTREND #2" group-title="USA CABLE TV #2📺",-1   , MOTORTREND #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39894
-#EXTINF:-1 tvg-id="mtv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/mtv.png" tvg-name="MTV #2" group-title="USA CABLE TV #2📺",-1    , MTV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39896
-#EXTINF:-1 tvg-id="nicktoons.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/nicktoon.png" tvg-name="NICK TOONS #2" group-title="USA CABLE TV #2📺",-1    , NICK TOONS #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39902
-#EXTINF:-1 tvg-id="oneamericanews.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/12/oan.png" tvg-name="ONE AMERICA NEWS #2" group-title="USA CABLE TV #2📺",-1    , ONE AMERICA NEWS #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39903
-#EXTINF:-1 tvg-id="2mmaroc.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/own.png" tvg-name="OWN #2" group-title="USA CABLE TV #2📺",-1    , OWN #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39904
-#EXTINF:-1 tvg-id="oxygen.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Oxygen_2017.png" tvg-name="OXYGEN #2" group-title="USA CABLE TV #2📺",-1    , OXYGEN #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39906
-#EXTINF:-1 tvg-id="syfy.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Syfy_logo.png" tvg-name="SYFY #2" group-title="USA CABLE TV #2📺",-1    , SYFY #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39911
-#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/Turner_Classic_Movies_2009.png" tvg-name="TURNER CLASSIC MOVIES #2" group-title="USA CABLE TV #2📺",-1    , TURNER CLASSIC MOVIES #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39912
-#EXTINF:-1 tvg-id="tlc.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TLC2021.png" tvg-name="TLC #2" group-title="USA CABLE TV #2📺",-1    , TLC #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39915
-#EXTINF:-1 tvg-id="trutv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/TruTV_2014.png" tvg-name="TRU TV #2" group-title="USA CABLE TV #2📺",-1    , TRU TV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39916
-#EXTINF:-1 tvg-id="vh1.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/VH1_2013.png" tvg-name="VH1 #2" group-title="USA CABLE TV #2📺",-1    , VH1 #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39920
-#EXTINF:-1 tvg-id="wetv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/05/WE_tv.png" tvg-name="WE TV #2" group-title="USA CABLE TV #2📺",-1    , WE TV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/39921
-#EXTINF:-1 tvg-id="cookingchannel.us" tvg-name="COOKING CHANNEL #2" group-title="USA CABLE TV #2📺",-1   , COOKING CHANNEL #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41134
-#EXTINF:-1 tvg-id="fusetv.us" tvg-name="FUSE #2" group-title="USA CABLE TV #2📺",-1   , FUSE #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41136
-#EXTINF:-1 tvg-id="mtv2.us" tvg-name="MTV II #2" group-title="USA CABLE TV #2📺",-1   , MTV II #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41139
-#EXTINF:-1 tvg-id="smithsonianchannel.us" tvg-name="Smithsonian Channel #2" group-title="USA CABLE TV #2📺",-1   , Smithsonian Channel #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41141
-#EXTINF:-1 tvg-id="insp.us" tvg-name="INSP #2" group-title="USA CABLE TV #2📺",-1   , INSP #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41142
-#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="COZI TV #2" group-title="USA CABLE TV #2📺",-1   , COZI TV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41143
-#EXTINF:-1 tvg-id="metv.us" tvg-name="METV #2" group-title="USA CABLE TV #2📺",-1   , METV #2
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/41144
-#EXTINF:-1 tvg-name="USA: CIRCLE TV SD" group-title="USA CABLE TV #2📺",-1  , USA: CIRCLE TV SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70422
-#EXTINF:-1 tvg-name="USA: ABC SD" group-title="USA CABLE TV #2📺",-1  , USA: ABC SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70423
-#EXTINF:-1 tvg-name="USA: ACC NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: ACC NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70424
-#EXTINF:-1 tvg-name="USA: IFC SD" group-title="USA CABLE TV #2📺",-1  , USA: IFC SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70425
-#EXTINF:-1 tvg-name="USA: ANIMAL PLANET SD" group-title="USA CABLE TV #2📺",-1  , USA: ANIMAL PLANET SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70426
-#EXTINF:-1 tvg-name="USA: BIG TEN NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: BIG TEN NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70427
-#EXTINF:-1 tvg-name="USA: CBS SD" group-title="USA CABLE TV #2📺",-1  , USA: CBS SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70428
-#EXTINF:-1 tvg-name="USA: CBS SPORTS NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: CBS SPORTS NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70429
-#EXTINF:-1 tvg-name="USA: CINEMAX SD" group-title="USA CABLE TV #2📺",-1  , USA: CINEMAX SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70430
-#EXTINF:-1 tvg-name="USA: CMT SD" group-title="USA CABLE TV #2📺",-1  , USA: CMT SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70431
-#EXTINF:-1 tvg-name="USA: CNBC SD" group-title="USA CABLE TV #2📺",-1  , USA: CNBC SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70432
-#EXTINF:-1 tvg-name="USA: CNN SD" group-title="USA CABLE TV #2📺",-1  , USA: CNN SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70433
-#EXTINF:-1 tvg-name="USA: COMEDY CENTRAL SD" group-title="USA CABLE TV #2📺",-1  , USA: COMEDY CENTRAL SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70434
-#EXTINF:-1 tvg-name="USA: CW SD" group-title="USA CABLE TV #2📺",-1  , USA: CW SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70435
-#EXTINF:-1 tvg-name="USA: DESTINATION AMERICA SD" group-title="USA CABLE TV #2📺",-1  , USA: DESTINATION AMERICA SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70436
-#EXTINF:-1 tvg-name="USA: DISCOVERY CHANNEL SD" group-title="USA CABLE TV #2📺",-1  , USA: DISCOVERY CHANNEL SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70437
-#EXTINF:-1 tvg-name="USA: DISNEY CHANNEL SD" group-title="USA CABLE TV #2📺",-1  , USA: DISNEY CHANNEL SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70438
-#EXTINF:-1 tvg-name="USA: DISNEY JR SD" group-title="USA CABLE TV #2📺",-1  , USA: DISNEY JR SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70439
-#EXTINF:-1 tvg-name="USA: DISNEY XD SD" group-title="USA CABLE TV #2📺",-1  , USA: DISNEY XD SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70440
-#EXTINF:-1 tvg-name="USA: DIY NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: DIY NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70441
-#EXTINF:-1 tvg-name="USA: E! SD" group-title="USA CABLE TV #2📺",-1  , USA: E! SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70442
-#EXTINF:-1 tvg-name="USA: MTV LIVE SD" group-title="USA CABLE TV #2📺",-1  , USA: MTV LIVE SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70443
-#EXTINF:-1 tvg-name="USA: ESPN 2 SD" group-title="USA CABLE TV #2📺",-1  , USA: ESPN 2 SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70444
-#EXTINF:-1 tvg-name="USA: ESPNU SD" group-title="USA CABLE TV #2📺",-1  , USA: ESPNU SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70445
-#EXTINF:-1 tvg-name="USA: ESPNEWS SD" group-title="USA CABLE TV #2📺",-1  , USA: ESPNEWS SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70446
-#EXTINF:-1 tvg-name="USA: FOX SD" group-title="USA CABLE TV #2📺",-1  , USA: FOX SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70447
-#EXTINF:-1 tvg-name="USA: FOX SPORTS 1 SD" group-title="USA CABLE TV #2📺",-1  , USA: FOX SPORTS 1 SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70448
-#EXTINF:-1 tvg-name="USA: FOX SPORTS 2 SD" group-title="USA CABLE TV #2📺",-1  , USA: FOX SPORTS 2 SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70449
-#EXTINF:-1 tvg-name="USA: FX SD" group-title="USA CABLE TV #2📺",-1  , USA: FX SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70450
-#EXTINF:-1 tvg-name="USA: GOLF CHANNEL SD" group-title="USA CABLE TV #2📺",-1  , USA: GOLF CHANNEL SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70451
-#EXTINF:-1 tvg-name="USA: HGTV SD" group-title="USA CABLE TV #2📺",-1  , USA: HGTV SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70452
-#EXTINF:-1 tvg-name="USA: MTV CLASSIC SD" group-title="USA CABLE TV #2📺",-1  , USA: MTV CLASSIC SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70453
-#EXTINF:-1 tvg-name="USA: HALLMARK MOVIES & MYSTERIES SD" group-title="USA CABLE TV #2📺",-1  , USA: HALLMARK MOVIES & MYSTERIES SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70454
-#EXTINF:-1 tvg-name="USA: MTV U" group-title="USA CABLE TV #2📺",-1  , USA: MTV U
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70455
-#EXTINF:-1 tvg-name="USA: LIFETIME SD" group-title="USA CABLE TV #2📺",-1  , USA: LIFETIME SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70456
-#EXTINF:-1 tvg-name="USA: LIFETIME MOVIES SD" group-title="USA CABLE TV #2📺",-1  , USA: LIFETIME MOVIES SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70457
-#EXTINF:-1 tvg-name="USA: MSNBC SD" group-title="USA CABLE TV #2📺",-1  , USA: MSNBC SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70458
-#EXTINF:-1 tvg-name="USA: MTV SD" group-title="USA CABLE TV #2📺",-1  , USA: MTV SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70459
-#EXTINF:-1 tvg-name="USA: REVOLT SD" group-title="USA CABLE TV #2📺",-1  , USA: REVOLT SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70460
-#EXTINF:-1 tvg-name="USA: NATIONAL GEOGRAPHIC WILD SD" group-title="USA CABLE TV #2📺",-1  , USA: NATIONAL GEOGRAPHIC WILD SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70461
-#EXTINF:-1 tvg-name="USA: NBC SD" group-title="USA CABLE TV #2📺",-1  , USA: NBC SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70462
-#EXTINF:-1 tvg-name="USA: SONY SD" group-title="USA CABLE TV #2📺",-1  , USA: SONY SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70463
-#EXTINF:-1 tvg-name="USA: NFL NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: NFL NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70464
-#EXTINF:-1 tvg-name="USA: NFL RED ZONE SD" group-title="USA CABLE TV #2📺",-1  , USA: NFL RED ZONE SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70465
-#EXTINF:-1 tvg-name="USA: NICKELODEON SD" group-title="USA CABLE TV #2📺",-1  , USA: NICKELODEON SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70466
-#EXTINF:-1 tvg-name="USA: NICKTOONS SD" group-title="USA CABLE TV #2📺",-1  , USA: NICKTOONS SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70467
-#EXTINF:-1 tvg-name="USA: ONE AMERICA NEWS NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: ONE AMERICA NEWS NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70468
-#EXTINF:-1 tvg-name="USA: OPRAH WINFREY NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: OPRAH WINFREY NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70469
-#EXTINF:-1 tvg-name="USA: COMET SD" group-title="USA CABLE TV #2📺",-1  , USA: COMET SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70470
-#EXTINF:-1 tvg-name="USA: PARAMOUNT NETWORK SD" group-title="USA CABLE TV #2📺",-1  , USA: PARAMOUNT NETWORK SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70472
-#EXTINF:-1 tvg-name="USA: PBS SD" group-title="USA CABLE TV #2📺",-1  , USA: PBS SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70473
-#EXTINF:-1 tvg-name="USA: STARZ SD" group-title="USA CABLE TV #2📺",-1, USA: STARZ SD
-http://tkosportz.live:25461/AlFasano2/sg555AJGy2/70477
+#EXTINF:-1 tvg-id="13Humor.cl" tvg-logo="https://i.imgur.com/KvMuTzN.png" group-title="Comedy📺",-1   , 13 Humor (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371269
+#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="Comedy📺",-1   , Adult Swim Dream Corp LLC (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371270
+#EXTINF:-1 tvg-id="AFV.us" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy📺",-1   , AFV (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371271
+#EXTINF:-1 tvg-id="AFVEspanol.us" tvg-logo="https://i.imgur.com/HUK4WXC.png" group-title="Comedy📺",-1   , AFV en Español (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371272
+#EXTINF:-1 tvg-id="AFVFamily.us" tvg-logo="https://i.imgur.com/dLSKBEn.png" group-title="Comedy📺",-1   , AFV Family
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371273
+#EXTINF:-1 tvg-id="CameraSmileTV.us" tvg-logo="https://i.imgur.com/V5h4R83.png" group-title="Comedy📺",-1   , Camera Smile (480p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371274
+#EXTINF:-1 tvg-id="ComediaMadeinSpain.us" tvg-logo="https://i.imgur.com/8ddFdSQ.png" group-title="Comedy📺",-1   , Comedia Made in Spain (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371275
+#EXTINF:-1 tvg-id="ComedyCentralEast.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png" group-title="Comedy📺",-1   , Comedy Central East (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371276
+#EXTINF:-1 tvg-id="ComedyCentral.in" tvg-logo="https://i.imgur.com/g0caQa2.png" group-title="Comedy📺",-1   , Comedy Central India (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371277
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="Comedy📺",-1   , Comedy Dynamics
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371278
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://i.imgur.com/584Wn29.png" group-title="Comedy📺",-1   , Comedy Play (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371279
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy📺",-1   , Distrito Comedia (576p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371280
+#EXTINF:-1 tvg-id="FailArmy.it" tvg-logo="https://i.imgur.com/t3IjyYJ.png" group-title="Comedy📺",-1   , Failarmy
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371281
+#EXTINF:-1 tvg-id="FailArmy.us" tvg-logo="https://i.imgur.com/2Pe548t.png" group-title="Comedy📺",-1   , FailArmy
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371282
+#EXTINF:-1 tvg-id="ForaTedioTV.br" tvg-logo="https://i.imgur.com/R9ul4T1.png" group-title="Comedy📺",-1   , Fora Tédio TV (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371283
+#EXTINF:-1 tvg-id="FunnyorDie.us" tvg-logo="https://i.imgur.com/17hqLxR.png" group-title="Comedy📺",-1   , Funny or Die (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371284
+#EXTINF:-1 tvg-id="HumorMax.ve" tvg-logo="https://i.imgur.com/bFUZwJ0.png" group-title="Comedy📺",-1   , Humor Max (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371285
+#EXTINF:-1 tvg-id="HumorMill.us" tvg-logo="https://i.imgur.com/e5W91v2.png" group-title="Comedy📺",-1   , Humor Mill (1080p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371286
+#EXTINF:-1 tvg-id="JustforLaughs.it" tvg-logo="https://i.imgur.com/NVJjree.png" group-title="Comedy📺",-1   , Just for Laughs Italy (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371287
+#EXTINF:-1 tvg-id="JustepourRire.us" tvg-logo="https://i.imgur.com/m5lO27j.png" group-title="Comedy📺",-1   , Juste pour Rire (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371288
+#EXTINF:-1 tvg-id="SirippoliTV.in" tvg-logo="https://i.imgur.com/nsplwFc.png" group-title="Comedy📺",-1   , Kalaignar Sirippoli (576p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371289
+#EXTINF:-1 tvg-id="LOLStandUp.us" tvg-logo="https://i.imgur.com/qgsyzW4.png" group-title="Comedy📺",-1   , LOL Standup (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371290
+#EXTINF:-1 tvg-id="KevinHartsLOLNetwork.us" tvg-logo="https://i.imgur.com/Tiy3Ur2.png" group-title="Comedy📺",-1   , LOL! Network
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371291
+#EXTINF:-1 tvg-id="MysteryScienceTheater3000.us" tvg-logo="https://i.imgur.com/8KWjY4o.png" group-title="Comedy📺",-1   , Mystery Science Theater 3000 (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371292
+#EXTINF:-1 tvg-id="MST3K.us" tvg-logo="https://i.imgur.com/2LSdcga.png" group-title="Comedy📺",-1   , Mystery Science Theater 3000 (MST3K)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371293
+#EXTINF:-1 tvg-id="PersianaComedy.fr" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy📺",-1   , Persiana Comedy
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371294
+#EXTINF:-1 tvg-id="PlutoTVClassicTV.uk" tvg-logo="https://i.imgur.com/hGdXRMd.png" group-title="Comedy📺",-1   , Pluto TV Classic TV (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371295
+#EXTINF:-1 tvg-id="PlutoTVComedie.fr" tvg-logo="https://i.imgur.com/1e4IFrS.png" group-title="Comedy📺",-1   , Pluto TV Comédie (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371296
+#EXTINF:-1 tvg-id="PlutoTVComedy.us" tvg-logo="https://i.imgur.com/MTVrbd5.png" group-title="Comedy📺",-1   , Pluto TV Comedy (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371297
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us" tvg-logo="https://i.imgur.com/jmudbCz.png" group-title="Comedy📺",-1   , Pluto TV Comedy Central (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371298
+#EXTINF:-1 tvg-id="ComedyCentralAnimation.us" tvg-logo="https://i.imgur.com/uENch0P.png" group-title="Comedy📺",-1   , Pluto TV Comedy Central Animation (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371299
+#EXTINF:-1 tvg-id="PlutoTVComedyCentralLatino.us" tvg-logo="https://i.imgur.com/FiM7Rbz.png" group-title="Comedy📺",-1   , Pluto TV Comedy Central Latino (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371300
+#EXTINF:-1 tvg-id="FunnyAF.us" tvg-logo="https://i.imgur.com/UCwjdtQ.png" group-title="Comedy📺",-1   , Pluto TV Funny AF (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371301
+#EXTINF:-1 tvg-id="PlutoTVKenanyKel.us" tvg-logo="https://i.imgur.com/9PAY5Xz.png" group-title="Comedy📺",-1   , Pluto TV Kenan y Kel (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371302
+#EXTINF:-1 tvg-id="RiffTrax.us" tvg-logo="https://i.imgur.com/hM4yKMn.png" group-title="Comedy📺",-1   , Pluto TV RiffTrax (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371303
+#EXTINF:-1 tvg-id="PlutoTVSeriesComedia.us" tvg-logo="https://i.imgur.com/INcTSkj.png" group-title="Comedy📺",-1   , Pluto TV Series Comedia (360p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371304
+#EXTINF:-1 tvg-id="PlutoTVSitcoms.de" tvg-logo="https://i.imgur.com/YzrUL8P.png" group-title="Comedy📺",-1   , Pluto TV Sitcoms (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371305
+#EXTINF:-1 tvg-id="SlightlyOffIFC.us" tvg-logo="https://i.imgur.com/zMPpMbV.png" group-title="Comedy📺",-1   , Pluto TV Slightly Off By IFC (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371306
+#EXTINF:-1 tvg-id="SonyCanalComedias.us" tvg-logo="https://i.imgur.com/9QG3Jz6.png" group-title="Comedy📺",-1   , Pluto TV Sony Canal Comedias
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371307
+#EXTINF:-1 tvg-id="PlutoTVStandUp.uk" tvg-logo="https://i.imgur.com/cZdUQDe.png" group-title="Comedy📺",-1   , Pluto TV Stand Up (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371308
+#EXTINF:-1 tvg-id="TVLandSitcoms.us" tvg-logo="https://i.imgur.com/phHHs7l.png" group-title="Comedy📺",-1   , Pluto TV TV Land Sitcoms (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371309
+#EXTINF:-1 tvg-id="RedboxComedy.us" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Comedy📺",-1   , Redbox 2: Comedy (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371310
+#EXTINF:-1 tvg-id="Scherzierisate.it" tvg-logo="https://i.imgur.com/jVWPVvJ.png" group-title="Comedy📺",-1   , Scherzi e risate Italy (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371311
+#EXTINF:-1 tvg-id="SEOTV7.bo" tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="Comedy📺",-1   , SEO TV 7 (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371312
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy📺",-1   , SoloStandUp (480p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371313
+#EXTINF:-1 tvg-id="TV2Comedy.hu" tvg-logo="https://i.imgur.com/B02hbcV.png" group-title="Comedy📺",-1   , TV2 Comedy (576p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371314
+#EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Comedy📺",-1   , TVMatic Comedy (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371315
+#EXTINF:-1 tvg-id="TVSComedyNetwork.us" tvg-logo="https://i.imgur.com/rXORbti.png" group-title="Comedy📺",-1   , TVS Comedy Network (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371316
+#EXTINF:-1 tvg-id="ViXJajaja.mx" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Comedy📺",-1   , ViX Jajaja (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371317
+#EXTINF:-1 tvg-id="YangiKulguTV.uz" tvg-logo="https://i.ibb.co/FbRG58b/channels4-profile.jpg" group-title="Comedy📺",-1   , YangiKulgu TV (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371318
+#EXTINF:-1 tvg-id="ADNTVPlus.fr" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Anime US TV📺",-1   , ADN TV+ (1080p) [Geo-Blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371319
+#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Anime US TV📺",-1   , Adult Swim Aqua Teen Hunger Force (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371320
+#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Anime US TV📺",-1   , Adult Swim Rick and Morty (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371321
+#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Anime US TV📺",-1   , Adult Swim Robot Chicken (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371322
+#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Anime US TV📺",-1   , Adult Swim Samurai Jack (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371323
+#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Anime US TV📺",-1   , Adult Swim The Venture Bros. (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371324
+#EXTINF:-1 tvg-id="AlanBeckerTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="Anime US TV📺",-1   , Alan Becker TV
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371325
+#EXTINF:-1 tvg-id="Animax.jp" tvg-logo="https://ri.zzls.xyz/bYX8NqT.png" group-title="Anime US TV📺",-1   , Animax (544p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371326
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Anime US TV📺",-1   , Anime TV (360p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371327
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://i.imgur.com/AHaXlCh.png" group-title="Anime US TV📺",-1   , Anime Zone TV (480p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371328
+#EXTINF:-1 tvg-id="CONtvAnime.us" tvg-logo="https://i.imgur.com/49LrRwJ.png" group-title="Anime US TV📺",-1   , CONtv Anime (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371329
+#EXTINF:-1 tvg-id="DreikoTV.pa" tvg-logo="https://i.imgur.com/k8U0e0b.png" group-title="Anime US TV📺",-1   , DreikoTv (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371330
+#EXTINF:-1 tvg-id="EnerGeek.cl" tvg-logo="https://cdn.energeek.cl/logos/Marca-512.png" group-title="Anime US TV📺",-1   , EnerGeek (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371331
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Anime US TV📺",-1   , eSports Max (480p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371332
+#EXTINF:-1 tvg-id="FanpopTV.cl" tvg-logo="https://cdn.energeek.cl/logos/Fanpop-512.png" group-title="Anime US TV📺",-1   , Fanpop TV
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371333
+#EXTINF:-1 tvg-id="Geekdot.br" tvg-logo="https://i.imgur.com/jML1u4O.png" group-title="Anime US TV📺",-1   , Geekdot (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371334
+#EXTINF:-1 tvg-id="LatinoKidsTV.uy" tvg-logo="https://i.imgur.com/VEk5aJ6.png" group-title="Anime US TV📺",-1   , LatinoKids (480p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371335
+#EXTINF:-1 tvg-id="LeaderPhoenix.cm" tvg-logo="https://i.ibb.co/2ZP3JTV/Screenshot-20230807-140244.jpg" group-title="Anime US TV📺",-1   , Leader Phoenix (480p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371336
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/1CftDPB.png" group-title="Anime US TV📺",-1   , Locomotion TV (480p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371337
+#EXTINF:-1 tvg-id="MagicKids.ar" tvg-logo="https://i.imgur.com/CMImqQY.png" group-title="Anime US TV📺",-1   , Magic Kids (486p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371338
+#EXTINF:-1 tvg-id="MAXAnime.ve" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" group-title="Anime US TV📺",-1   , MAX Anime (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371339
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="Anime US TV📺",-1   , Pandamax Channel (1080p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371340
+#EXTINF:-1 tvg-id="PersianaJunior.fr" tvg-logo="https://i.imgur.com/zeKHZYG.png" group-title="Anime US TV📺",-1   , Persiana Junior
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371341
+#EXTINF:-1 tvg-id="PlutoTVAnimeAccion.us" tvg-logo="https://i.imgur.com/S31utcQ.png" group-title="Anime US TV📺",-1   , Pluto TV Animé Acción (684p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371342
+#EXTINF:-1 tvg-id="PlutoTVAnimeAllAges.us" tvg-logo="https://i.imgur.com/iv8ejiz.png" group-title="Anime US TV📺",-1   , Pluto TV Anime All Ages (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371343
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Anime US TV📺",-1   , Pluto TV Anime All Day (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371344
+#EXTINF:-1 tvg-id="Naruto.us" tvg-logo="https://i.imgur.com/M8X3Kvc.png" group-title="Anime US TV📺",-1   , Pluto TV Naruto (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371345
+#EXTINF:-1 tvg-id="OnePiece.us" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="Anime US TV📺",-1   , Pluto TV One Piece (720p) [Not 24/7]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371346
+#EXTINF:-1 tvg-id="YuGiOh.us" tvg-logo="https://i.imgur.com/Tl6aW2u.png" group-title="Anime US TV📺",-1   , Pluto TV Yu-Gi-Oh (720p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371347
+#EXTINF:-1 tvg-id="Toonami.fr" tvg-logo="https://i.imgur.com/U7qh4yF.png" group-title="Anime US TV📺",-1   , Toonami (1080p) [Geo-blocked]
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371348
+#EXTINF:-1 tvg-id="ToonamiAftermathEast.us" tvg-logo="https://i.imgur.com/aSjhZK7.png" group-title="Anime US TV📺",-1   , Toonami Aftermath East (480p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371349
+#EXTINF:-1 tvg-id="XtremaAnime.ar" tvg-logo="https://i.imgur.com/yor5owS.png" group-title="Anime US TV📺",-1   , Xtrema Anime (360p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371350
+#EXTINF:-1 tvg-id="XtremaRetroCartoons.ar" tvg-logo="https://i.imgur.com/60ylWbQ.png" group-title="Anime US TV📺",-1   , Xtrema Retro Cartoons (360p)
+https://m3u-editor.com/serve/e9380de0-1a55-11ef-aca7-7108ec42317a/1170371351
+
+#EXTINF:-1 tvg-id="a3cine.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/12/tvg.png" tvg-name="TVG" group-title="USA SPORTS ESPN📺",-1    , TVG
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/4616
+#EXTINF:-1 tvg-id="redbulltv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/redbull.png" tvg-name="RED BULL TV" group-title="USA SPORTS ESPN📺",-1    , RED BULL TV
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/6176
+#EXTINF:-1 tvg-id="5616f9c0ada51f8004c4b091" tvg-logo="https://images.pluto.tv/channels/5616f9c0ada51f8004c4b091/colorLogoPNG.png" tvg-name="WORLD TOUR POKER" group-title="USA SPORTS ESPN📺",-1    , WORLD TOUR POKER
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/7659
+#EXTINF:-1 tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/ginx_hole_logo.png" tvg-name="GINX" group-title="USA SPORTS ESPN📺",-1   , GINX
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8313
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/CBS_Sports_Network_Logo.png" tvg-name="CBS SPORTS" group-title="USA SPORTS ESPN📺",-1    , CBS SPORTS
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8459
+#EXTINF:-1 tvg-id="marqueesportsnetwork.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/marquee.png" tvg-name="Marquee Sports Network" group-title="USA SPORTS ESPN📺",-1    , Marquee Sports Network
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8820
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/NESN.png" tvg-name="NESN" group-title="USA SPORTS ESPN📺",-1    , NESN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8821
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/attttt.png" tvg-name="AT&T SportsNet Southwest" group-title="USA SPORTS ESPN📺",-1    , AT&T SportsNet Southwest
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8825
+#EXTINF:-1 tvg-id="stadium.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Stadium_logo_2017.png" tvg-name="STADIUM" group-title="USA SPORTS ESPN📺",-1    , STADIUM
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8826
+#EXTINF:-1 tvg-id="mavtv.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/597926a7f0a2d0e51146baedfe51ea3a.png" tvg-name="MAV TV" group-title="USA SPORTS ESPN📺",-1    , MAV TV
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8829
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/NESN.png" tvg-name="NESN PLUS" group-title="USA SPORTS ESPN📺",-1    , NESN PLUS
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/8831
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/yespinss.png" tvg-name="YES NETWORK" group-title="USA SPORTS ESPN📺",-1    , YES NETWORK
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15079
+#EXTINF:-1 tvg-id="comcastsnynewyorksportsnet.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/snysny.png" tvg-name="SPORTSNET NY" group-title="USA SPORTS ESPN📺",-1    , SPORTSNET NY
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15080
+#EXTINF:-1 tvg-id="madisonsquaregarden2.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/6e2baaf3b97dbeef01c0043275f9a0e7.png" tvg-name="MSG 2" group-title="USA SPORTS ESPN📺",-1    , MSG 2
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15081
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/d9dd7dd44ebcfc4f306ad873759b25e9.png" tvg-name="MSG Plus" group-title="USA SPORTS ESPN📺",-1    , MSG Plus
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15082
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/tennis_channel.png" tvg-name="Tennis Channel" group-title="USA SPORTS ESPN📺",-1    , Tennis Channel
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/24716
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/08/GolfChannel.us_.png" tvg-name="NBC GOLF CHANNEL" group-title="USA SPORTS ESPN📺",-1    , NBC GOLF CHANNEL
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/37730
+#EXTINF:-1 tvg-id="espn2.us" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" tvg-name="ESPN2" group-title="USA SPORTS ESPN📺",-1    , ESPN2
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38227
+#EXTINF:-1 tvg-id="espnu.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPN_U.png" tvg-name="ESPNU" group-title="USA SPORTS ESPN📺",-1    , ESPNU
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38228
+#EXTINF:-1 tvg-id="espnnews.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPNEWS_logo.png" tvg-name="ESPNEWS" group-title="USA SPORTS ESPN📺",-1    , ESPNEWS
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38229
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ACC_Network_ESPN.png" tvg-name="ESPN ACCN" group-title="USA SPORTS ESPN📺",-1    , ESPN ACCN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38233
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Big_Ten_Network_28202029.png" tvg-name="ESPN BIG TEN " group-title="USA SPORTS ESPN📺",-1    , ESPN BIG TEN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38234
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/TSN1_new.png" tvg-name="TSN 1" group-title="USA SPORTS ESPN📺",-1    , TSN 1
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38236
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN2.png" tvg-name="TSN 2" group-title="USA SPORTS ESPN📺",-1    , TSN 2
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38237
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN3.png" tvg-name="TSN 3" group-title="USA SPORTS ESPN📺",-1    , TSN 3
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38238
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Tsn_4_ca.png" tvg-name="TSN 4" group-title="USA SPORTS ESPN📺",-1    , TSN 4
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38239
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/TSN5.png" tvg-name="TSN 5" group-title="USA SPORTS ESPN📺",-1    , TSN 5
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38240
+#EXTINF:-1 tvg-id="pac12oregon.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pacific12Conferencelogo.png" tvg-name="PAC12 OREGON" group-title="USA SPORTS ESPN📺",-1    , PAC12 OREGON
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38244
+#EXTINF:-1 tvg-id="pac12losangeles.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pacific12Conferencelogo.png" tvg-name="PAC12 LOS ANGELES" group-title="USA SPORTS ESPN📺",-1    , PAC12 LOS ANGELES
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38245
+#EXTINF:-1 tvg-id="pac12bayarea.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pacific12Conferencelogo.png" tvg-name="PAC12 BAY AREA" group-title="USA SPORTS ESPN📺",-1    , PAC12 BAY AREA
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38246
+#EXTINF:-1 tvg-id="SP: PAC 12 MOUNTAIN" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pacific12Conferencelogo.png" tvg-name="PAC12 MOUNTAIN" group-title="USA SPORTS ESPN📺",-1    , PAC12 MOUNTAIN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38247
+#EXTINF:-1 tvg-id="nflnetwork.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/08/NFL.png" tvg-name="NFL NETWORK" group-title="USA SPORTS ESPN📺",-1    , NFL NETWORK
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/40691
+#EXTINF:-1 tvg-id="atandtsportsnetpittsburgh.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/SportsNet_Pittsburgh_logo.png/520px-SportsNet_Pittsburgh_logo.png" tvg-name="SportsNet Pittsburgh" group-title="USA SPORTS ESPN📺",-1    , SportsNet Pittsburgh
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/62829
+#EXTINF:-1 tvg-id="outdoorchannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/outdoor.png" tvg-name="OUTDOOR CHANNEL" group-title="USA SPORTS ESPN📺",-1    , OUTDOOR CHANNEL
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/697
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2020/11/sportsman.png" tvg-name="SPORTSMAN " group-title="USA SPORTS ESPN📺",-1    , SPORTSMAN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/4608
+#EXTINF:-1 tvg-id="pursuitchannel.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/pursuit.jpg" tvg-name="PURSUIT " group-title="USA SPORTS ESPN📺",-1    , PURSUIT
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/4612
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/msg-network-logo-png-transparent.png" tvg-name="MSG" group-title="USA SPORTS ESPN📺",-1    , MSG
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/15078
+#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPN-1.png" tvg-name="ESPN" group-title="USA SPORTS ESPN📺",-1    , ESPN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38226
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/SEC-network-horizontal.png" tvg-name="ESPN SEC NETWORK" group-title="USA SPORTS ESPN📺",-1    , ESPN SEC NETWORK
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38232
+#EXTINF:-1 tvg-id="thelonghonrnetwork.us" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/Longhorn_Network.png" tvg-name="ESPN LONGHORN NETWORK" group-title="USA SPORTS ESPN📺",-1    , ESPN LONGHORN NETWORK
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38235
+#EXTINF:-1 tvg-id="pac12arizona.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pacific12Conferencelogo.png" tvg-name="PAC12 ARIZONA" group-title="USA SPORTS ESPN📺",-1    , PAC12 ARIZONA
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38242
+#EXTINF:-1 tvg-id="pac12washington.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pacific12Conferencelogo.png" tvg-name="PAC12 WASHINGTON" group-title="USA SPORTS ESPN📺",-1    , PAC12 WASHINGTON
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38243
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="SPORTSNET LA" group-title="USA SPORTS ESPN📺",-1   , SPORTSNET LA
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/58910
+#EXTINF:-1 tvg-id="masn.us" tvg-name="MASN" group-title="USA SPORTS ESPN📺",-1   , MASN
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/59774
+#EXTINF:-1 tvg-id="masn2.us" tvg-name="MASN 2" group-title="USA SPORTS ESPN📺",-1   , MASN 2
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/59775
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/NBCsports911.png" tvg-name="NBCS Philadelphia " group-title="USA SPORTS ESPN📺",-1    , NBCS Philadelphia
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/31411
+#EXTINF:-1 tvg-id="a3cine.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/06/Pac-12_Networks.png" tvg-name="PAC12 NETWORK" group-title="USA SPORTS ESPN📺",-1    , PAC12 NETWORK
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/38241
+#EXTINF:-1 tvg-id="andtv.us" tvg-logo="https://skeplayer.com/wp-content/uploads/2021/04/Eleven_Sports.png" tvg-name="ELEVEN SPORTS" group-title="USA SPORTS ESPN📺",-1    , ELEVEN SPORTS
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/9545
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="Altitude Sports" group-title="USA SPORTS ESPN📺",-1   , Altitude Sports
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/94901
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="FOX SPORTS 2" group-title="USA SPORTS ESPN📺",-1   , FOX SPORTS 2
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/99151
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK" group-title="USA SPORTS ESPN📺",-1   , WWE NETWORK
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/99152
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="FOX SPORTS 1" group-title="USA SPORTS ESPN📺",-1   , FOX SPORTS 1
+http://tkosportz.live:25461/AlFasano2/sg555AJGy2/100735
